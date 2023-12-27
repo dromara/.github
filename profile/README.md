@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./assets/logo.png" height="220"/>
+<img src="profile/assets/logo.png" height="220"/>
 </p>
 
 <div align="center">
@@ -42,7 +42,7 @@
 
 **Dromara** 社区能够持续运营和提供更加优质的服务离不开大家的支持。如果想成为 **Dromara** 社区赞助商或支持者，请考虑支持：
 
-<img src="./assets/donation.png" height="360">
+<img src="profile/assets/donation.png" height="360">
 
 **Dromara** 社区承诺将收到的所有赞助支持资金完全公开化，且后续资金用途仅限于 **Dromara** 社区运营支出。
 
