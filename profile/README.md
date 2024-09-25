@@ -1,5 +1,5 @@
 <p align="center">
-<img src="profile/assets/logo.png" height="220"/>
+<img src="https://dromara.org/logo.svg" height="220"/>
 </p>
 
 <div align="center">
@@ -32,7 +32,7 @@ These open source projects serve millions of individuals and small and medium-si
 ## Join Us
 
 Dromara community welcomes all open source lovers to join.    
-The community provides a complete community governance development and organizational member growth platform to help everyone participate in open source better. [Detail](profile/join-us.md)。
+The community provides a complete community governance development and organizational member growth platform to help everyone participate in open source better. [Donation](https://dromara.org/donation)。
 
 ## Sponsors
 
@@ -40,6 +40,6 @@ The **Dromara** community cannot continue to operate and provide better services
 
 [Sponsor Us](https://github.com/sponsors/dromara) 
 
-<img src="profile/assets/donation.png" height="360">
+<img src="https://dromara.org/assets/img/donation.webp" height="360">
 
 We promise that all sponsorship funds we receive will be fully disclosed and used only for **Dromara** community operating expenses.
